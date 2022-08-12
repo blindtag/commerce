@@ -1,2 +1,2 @@
 # commerce
-A simple e commerce application using commerce.js
+An e commerce application using commerce.js
